@@ -5,6 +5,7 @@
 
 import Foundation
 import SwiftUI
+import FirebaseFirestore
 
 struct Location: Identifiable, Codable, Comparable {
   
